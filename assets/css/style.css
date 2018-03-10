@@ -1,0 +1,35 @@
+body{
+  font-family: 'Karma', serif;
+  background-image: url("../images/background.jpg");
+  background-color:white;
+  
+}
+
+.navbar{
+  background-color: rgba(2, 2, 49, 0.096);
+  border: 0px;
+  color: rgba(5, 5, 145, 0.644);
+  text-align: center;
+}
+
+.panel{
+  background-color: rgba(155, 155, 155, 0.63);
+}
+
+
+.stdsize{
+  height: 175px;
+}
+
+.fontclass{
+  color: white;
+  text-align: center;
+}
+
+.container-table {
+  display: table;
+}
+.vertical-center-row {
+  display: table-cell;
+  vertical-align: middle;
+}
