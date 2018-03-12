@@ -22,6 +22,10 @@ body{
   height: 80px;
 }
 
+.stdWidth{
+  width: 24%;
+}
+
 .fontclass{
   color: white;
   text-align: center;
